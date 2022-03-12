@@ -1,24 +1,10 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="REY LEON" group-title="Channels",REY LEON
-http://5.39.94.171/Descargas/El%20Rey%20Le%c3%b3n%20(2019)%20%5bBR%20x265%20DTS(ES)%20AC3(ES:EN)%20Subs(ES:EN)%5d.mkv
-
-	
-#EXTINF:-1 tvg-id="Kong la Isla Calavera" group-title="Channels",Kong la Isla Calavera
-http://5.39.94.171/Descargas/Kong%20la%20Isla%20Calavera%20%5b4K%20UHD%202160p%5d%5bHEVC%20X265%5d%5bAC3-5.1%20Castellano%20TrueHD-5.1-Ingles+Subs%5d%5bES-EN%5d/Kong%20la%20Isla%20Calavera%204K2160.www.newpct1.com.mkv
-     	
-#EXTINF:-1,ANTENA 3 HD
-http://78.201.98.110:8000/play/a07o
-
-#EXTINF:-1,TNT HD
-http://78.201.98.110:8000/play/a097
-
-#EXTINF:-1,CRIMEN+INVES
-http://78.201.98.110:8000/play/a0p5
-
-
 
 #EXTINF:-1,BABY TV
 http://78.201.98.110:8000/play/a0en
 #EXTINF:-1,BOING
 http://78.201.98.110:8000/play/a0ep
+
+#EXTINF:-1 tvg-id="viaje.de.sus.vidas" group-title="Channels",viaje.de.sus.vidas
+http://144.217.69.162/PELIS_STALKER/El.viaje.de.sus.vidas.2021.Comedia.HDRip.CASTELLANO.mp4
